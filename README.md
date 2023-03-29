@@ -1,4 +1,4 @@
 # PROFILE
 my name is Eratus munyao
-# Sub-Heading
+## Sub-Heading
 my first git README
