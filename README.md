@@ -6,3 +6,5 @@ my first git README
 welcome to dekut. We offer Bsc comp science and Bsc IT
 # Dedan Kimathi University of Technology
 This university is based in Nyeri
+# Bachelor of science in IT
+This faculty is done in four years
